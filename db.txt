@@ -1,4 +1,3 @@
-Krzysztof 20
-Janusz 40
-Krzysztof 20
-Janusz 40
+Krzysztof Kaczka 20
+Janusz Pak 40
+mikolaj wasek 45
