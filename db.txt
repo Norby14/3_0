@@ -1,3 +1,4 @@
-Krzysztof Kaczka 20
-Janusz Pak 40
-mikolaj wasek 45
+
+Krzysztof Kaczka 20 23.4.2001
+Janusz Pak 40 23.4.2001
+Marcin Lis 22 12.3.1992
